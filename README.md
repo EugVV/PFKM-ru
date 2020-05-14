@@ -37,3 +37,5 @@
 Установка
 ---------
 Для установки заменяем файл `Kingmaker_Data\StreamingAssets\Localization\ruRU.json`.
+
+[Тема для обсуждения перевода](https://arcanecoast.ru/forum/viewtopic.php?f=8&t=1530).
